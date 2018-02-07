@@ -5,9 +5,9 @@
 - Coloque finalmente en este mismo archivo los datos que se le solicita
 
 ## Datos:
-- Nombres:
-- Fecha de entrega:
-- Hora de entrega:
-- Observaciones:
+- Nombres: Angel Ricardo Capa Medina
+- Fecha de entrega: 7-2-2018
+- Hora de entrega: 10:47
+- Observaciones: 
 
 
